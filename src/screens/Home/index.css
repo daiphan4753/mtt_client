@@ -1,0 +1,25 @@
+.home__container{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.home__find-box{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.home__find-input{
+    border: none;
+    font-size: 1em;
+}
+.home__find-input:focus{
+    outline: none;
+    font-size: 1em;
+}
+#home__find-button{
+    font-size: 1em;
+    background-color: white;
+    border: none;
+}
